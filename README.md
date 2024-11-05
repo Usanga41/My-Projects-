@@ -11,6 +11,10 @@ The dataset comprised two tables: Orders and Customers. The Orders table include
 ### Tool Used 
 MySQL Workbench was essential for performing efficient data analysis on retail sales and customer data. Its SQL editor allowed for advanced querying, enabling detailed insights into sales performance, customer trends, and regional contributions. The tool’s intuitive interface, along with built-in data import and export functions, streamlined data manipulation and analysis.
 
+### Data Loading and Preparation 
+Data was loaded into MySQL Workbench by importing CSV files for both the Orders and Customers datasets. The data was structured into tables, with appropriate data types assigned to each column. Basic data cleaning, including date formatting and ensuring consistent data types, was conducted to optimize data accuracy for analysis.
+
+
 
 
 
