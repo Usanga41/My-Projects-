@@ -163,6 +163,8 @@ WHERE SubscriptionEnd BETWEEN DATE_SUB(CURDATE(), INTERVAL 1 MONTH) AND CURDATE(
 ```
 
 ### Sample Visualizations 
+![image](https://github.com/user-attachments/assets/9b845639-e8b2-4e28-8f44-0d5638e88bd2)
+
 
 
 
