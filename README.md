@@ -69,11 +69,10 @@ CREATE TABLE customers (
 );
 
 -- Step 4: Load Data from CSV Files
--- Note: You would typically use a tool to import the CSV files directly.
--- Here, I'm providing the SQL syntax for reference if you were to use `LOAD DATA INFILE`.
+-- Here, I'm providing the SQL syntax for reference using `LOAD DATA INFILE`.
 
--- Load Orders Data (assuming file is accessible)
-LOAD DATA INFILE '/path/to/orders.csv'
+-- Load Orders Data 
+LOAD DATA INFILE '/orders.csv'
 INTO TABLE orders
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
