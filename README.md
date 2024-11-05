@@ -221,6 +221,10 @@ The comprehensive Excel analyses of customer and sales data provide valuable ins
 ### Sample Visualizations for the Excel Analysis 
 ![image](https://github.com/user-attachments/assets/9e4f448a-dfbb-4c35-89c3-312c0ecb9381)
 
+![image](https://github.com/user-attachments/assets/6e01aad5-cf4e-4095-89c8-0a3231f97b6b)
+
+
+
 
 
 
