@@ -1,4 +1,4 @@
-# My-Projects-
+# LITA_Class_Documentation
 
 ### Project Tittle: Using SQL Server Environment to Analyze LITA Capstone Dataset
 
