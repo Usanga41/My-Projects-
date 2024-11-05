@@ -7,3 +7,13 @@ This project involved analyzing sales and customer data for a retail store to as
 
 ### Data Decsription 
 The dataset comprised two tables: Orders and Customers. The Orders table included details such as OrderID, CustomerID, Product, Region, OrderDate, Quantity, and UnitPrice, providing information on sales transactions, product categories, and regional performance. Key metrics such as total sales, transaction count, and monthly revenue were derived from this data. The Customers table contained CustomerID, CustomerName, Region, SubscriptionType, SubscriptionStart, SubscriptionEnd, Canceled, and Revenue fields, giving insights into customer demographics, subscription status, and revenue per customer. Together, these datasets facilitated a comprehensive analysis of product performance, customer trends, and regional sales contributions for the retail store.
+
+### Tool Used 
+MySQL Workbench was essential for performing efficient data analysis on retail sales and customer data. Its SQL editor allowed for advanced querying, enabling detailed insights into sales performance, customer trends, and regional contributions. The tool’s intuitive interface, along with built-in data import and export functions, streamlined data manipulation and analysis.
+
+
+
+
+
+
+
