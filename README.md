@@ -219,6 +219,9 @@ The analysis identified products with no sales activity in the last quarter, all
 The comprehensive Excel analyses of customer and sales data provide valuable insights into purchasing behavior, customer segmentation, and sales performance. By leveraging these insights, the retail store can enhance its marketing strategies, optimize inventory management, and foster customer loyalty. Ongoing analysis and updates are essential to adapt to changing market conditions and ensure sustained growth.
 
 ### Sample Visualizations for the Excel Analysis 
+![image](https://github.com/user-attachments/assets/9e4f448a-dfbb-4c35-89c3-312c0ecb9381)
+
+
 
 
 
