@@ -39,6 +39,8 @@ Data was loaded into MySQL Workbench by importing CSV files for both the Orders 
 
 12) Customers with Subscriptions Ending Last Month - Identified customers with recently ended subscriptions to assess retention needs.
 
+### SQL Codes for the Analysis
+
 
 
 
