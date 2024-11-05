@@ -160,6 +160,7 @@ SELECT CustomerID, CustomerName
 FROM customers
 WHERE SubscriptionEnd BETWEEN DATE_SUB(CURDATE(), INTERVAL 1 MONTH) AND CURDATE();
 
+### Sample Visualizations 
 
 
 
