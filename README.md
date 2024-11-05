@@ -166,7 +166,7 @@ WHERE SubscriptionEnd BETWEEN DATE_SUB(CURDATE(), INTERVAL 1 MONTH) AND CURDATE(
 ![image](https://github.com/user-attachments/assets/9b845639-e8b2-4e28-8f44-0d5638e88bd2)
 
 
-### Excel Analysis
+### Project Tittle: Excel Analysis
 Project Overview
 This project involved an in-depth analysis of customer and sales data for a retail store using Microsoft Excel. The primary goal was to identify customer segments, purchasing behaviors, and sales performance metrics to enhance marketing strategies and optimize inventory management. By utilizing Excel's powerful data manipulation tools, including pivot tables, formulas, and visualizations, actionable insights were derived that could inform business decisions and drive growth.
 
