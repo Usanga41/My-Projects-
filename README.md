@@ -40,6 +40,7 @@ Data was loaded into MySQL Workbench by importing CSV files for both the Orders 
 12) Customers with Subscriptions Ending Last Month - Identified customers with recently ended subscriptions to assess retention needs.
 
 ### SQL Codes for the Analysis
+```SQL
 -- Step 1: Create the Database
 CREATE DATABASE retail_store;
 USE retail_store;
@@ -159,6 +160,7 @@ GROUP BY Region;
 SELECT CustomerID, CustomerName
 FROM customers
 WHERE SubscriptionEnd BETWEEN DATE_SUB(CURDATE(), INTERVAL 1 MONTH) AND CURDATE();
+```
 
 ### Sample Visualizations 
 
